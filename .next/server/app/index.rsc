@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+4:I[9977,["978","static/chunks/978-8ced92c6dcd74dc3.js","450","static/chunks/450-012eea6ee01993c7.js","109","static/chunks/109-a2bb23dd91da2469.js","632","static/chunks/632-049c5450394bb37a.js","974","static/chunks/app/page-a7f735dbacd69d5a.js"],"default"]
+5:I[2139,["978","static/chunks/978-8ced92c6dcd74dc3.js","450","static/chunks/450-012eea6ee01993c7.js","109","static/chunks/109-a2bb23dd91da2469.js","632","static/chunks/632-049c5450394bb37a.js","974","static/chunks/app/page-a7f735dbacd69d5a.js"],"HeroScrollDemo"]
+6:I[5296,["978","static/chunks/978-8ced92c6dcd74dc3.js","450","static/chunks/450-012eea6ee01993c7.js","109","static/chunks/109-a2bb23dd91da2469.js","632","static/chunks/632-049c5450394bb37a.js","974","static/chunks/app/page-a7f735dbacd69d5a.js"],"default"]
+7:I[3278,["978","static/chunks/978-8ced92c6dcd74dc3.js","450","static/chunks/450-012eea6ee01993c7.js","109","static/chunks/109-a2bb23dd91da2469.js","632","static/chunks/632-049c5450394bb37a.js","974","static/chunks/app/page-a7f735dbacd69d5a.js"],"FooterDemo"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/1f339c768df7b070.css","style"]
+0:{"P":null,"b":"zJoCM0hnxdKcS92J9v3wz","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1f339c768df7b070.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_4d318d __variable_ea5f4b antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen","children":["$","div",null,{"className":"-mt-[px]","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","nvN_gHM4I3Yf4d3qN0u1-",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Famcare Health Speciality"}],["$","meta","1",{"name":"description","content":"Famcare Health Speciality in Ayikkarappadi provides compassionate, comprehensive healthcare with advanced diagnostics, pharmacy, and modern treatment facilities."}],["$","link","2",{"rel":"icon","href":"/favicon.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/favicon.png"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
